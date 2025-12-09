@@ -1,88 +1,118 @@
-<!-- HERO / Typing animation -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=36&duration=3000&pause=900&color=00C0FF&center=true&vCenter=true&width=980&lines=Joseph+Kamau+—+AI+Engineer+%26+Full-Stack+Developer;Building+Futuristic+AI+Systems;LLMs+%7C+RAG+%7C+FastAPI+%7C+React" alt="typing"/>
-</p>
-
-<p align="center">
-  <a href="https://josephkamau.telivus.co.ke"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-josephkamau.telivus.co.ke-00C0FF?style=for-the-badge&logo=google-chrome"></a>
-  <a href="https://github.com/josephkamau32"><img alt="github" src="https://img.shields.io/badge/GitHub-josephkamau32-000000?style=for-the-badge&logo=github"></a>
-  <a href="mailto:iamjosephkamau@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email-iamjosephkamau%40gmail.com-DD0031?style=for-the-badge&logo=gmail"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=900&lines=Joseph+Kamau+—+AI+Engineer+%26+Full-Stack+Developer;Building+AI-Powered+Applications;LLMs+%7C+RAG+%7C+FastAPI+%7C+React;Crafting+Intelligent+Systems+Used+Globally" />
 </p>
 
 ---
 
-## 👋 About Me
-I build **production-grade AI systems** and intelligent web apps using modern stacks: **Python, FastAPI, LangChain, Vector DBs, React, TypeScript, and cloud platforms**. My products serve real users and solve hard problems with clean engineering.
+# 👋 Hi, I’m **Joseph**
+I’m an **AI Engineer & Full-Stack Developer** creating intelligent, scalable, production-ready systems using:
+
+**▫ Python ▫ FastAPI ▫ React ▫ TypeScript ▫ LangChain ▫ LLMs ▫ Vector Databases ▫ Cloud ▫ ML**
+
+I build:
+- 🤖 AI Agents & Autonomous Systems  
+- 🧠 RAG Knowledge Systems  
+- ⚡ Enterprise-Grade APIs & Backend Systems  
+- 🎨 High-Performance Frontends  
+- 📈 ML Prediction Models  
+- 🌍 AI products serving **12,000+ global users**
 
 ---
 
-## 🚀 Featured Projects
-- **Telivus AI** — Multi-agent health assessment (RAG + forecasting). 🔗 https://telivus.co.ke  
-- **LinguaLearn** — AI language tutor, 100+ languages. 🔗 https://lingua-learn-chi.vercel.app  
-- **Code Review Assistant** — Automated PR reviews using RAG & LLMs. 🔗 https://github.com/josephkamau32/Code-Review-Assistant
+# 🚀 Featured Projects
+
+## 🔥 **Telivus AI — Multi-Agent Health Assessment**
+**Live:** https://telivus.co.ke  
+AI-driven health platform using multi-agent LLMs, RAG, and predictive forecasting.  
+**Stack:** FastAPI · LangChain · ChromaDB · React · TypeScript · Docker  
+<p><img src="https://img.shields.io/badge/RAG-Enabled-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/AI%20AGENTS-Active-blue?style=for-the-badge" /></p>
 
 ---
 
-## ✨ Modern Skills Grid
-A compact, modern skill presentation — badges show focus & confidence level.
+## 🎧 **LinguaLearn — Real-Time AI Language Tutor**  
+**Live:** https://lingua-learn-chi.vercel.app  
+Supports 100+ languages, pronunciation scoring & OCR translation.
 
-### AI & ML
+---
+
+## 🧩 **AI Code Review Assistant — Automated PR Reviewer**  
+**Repo:** https://github.com/josephkamau32/Code-Review-Assistant  
+Uses RAG + LLMs + GitHub webhooks to perform automated code reviews.
+
+---
+
+# 🛠️ Skills & Technologies
+
+## 🧠 **Artificial Intelligence & Machine Learning**
 <p>
   <img src="https://img.shields.io/badge/LLMs-GPT4o%2FGemini-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-00A3FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Pipelines-FF8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VectorDBs-ChromaDB%20%7C%20Pinecone-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ML-PyTorch%20%7C%20TensorFlow-D7263D?style=for-the-badge" />
-</p>
-
-### Backend & Data
-<p>
-  <img src="https://img.shields.io/badge/Python-95%25-3776AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI-92%25-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-90%25-316192?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redis-85%25-DC382D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-88%25-0468D7?style=for-the-badge" />
-</p>
-
-### Frontend & UX
-<p>
-  <img src="https://img.shields.io/badge/React-94%25-00C0FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-92%25-3178C6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-85%25-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tailwind-90%25-38BDF8?style=for-the-badge" />
-</p>
-
-### Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-85%25-FF9900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GCP-80%25-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Azure-78%25-0089D6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI--CD-Automated-00ACC1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-%2300A3FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Pipelines-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20AI-Autonomous-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-ChromaDB%20%7C%20Pinecone-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-PyTorch%20%7C%20TensorFlow-red?style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 GitHub Activity & Stats
+## ⚙️ **Backend Development**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-AA0000?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0466D7?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-Real--Time-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-Auth-yellow?style=for-the-badge" />
+</p>
+
+---
+
+## 🎨 **Frontend Development**
+<p>
+  <img src="https://img.shields.io/badge/React-00C0FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn-UI-black?style=for-the-badge" />
+</p>
+
+---
+
+## ☁️ **Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI--CD-Automated-blue?style=for-the-badge" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josephkamau32&show_icons=true&theme=algolia&count_private=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephkamau32&theme=algolia&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=josephkamau32&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephkamau32&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
----
-
-## 🐍 Contribution Snake (auto-generated)
 <p align="center">
-  <!-- this image will be created by a GitHub Action and placed at /output/github-contribution-grid-snake.svg -->
-  <img src="output/github-contribution-grid-snake.svg" alt="contribution-snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josephkamau32&theme=react-dark&hide_border=true&area=true" />
 </p>
-
-> If the snake shows broken image at first, run the GitHub Action (workflow provided below) once — after the Action completes the SVG will appear automatically.
 
 ---
 
-## 📬 Connect
-- Email: iamjosephkamau@gmail.com  
-- Portfolio: https://josephkamau.telivus.co.ke  
-- GitHub: https://github.com/josephkamau32
+# 🌍 Let’s Connect  
+<p>
+  <a href="mailto:iamjosephkamau@gmail.com"><img src="https://img.shields.io/badge/Email-iamjosephkamau%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://josephkamau.telivus.co.ke"><img src="https://img.shields.io/badge/Portfolio-josephkamau.telivus.co.ke-00C0FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
 
+---
 
+# 🎯 Mission  
+> **To build intelligent, scalable, and globally impactful AI systems that solve real human problems.**
+
+---
