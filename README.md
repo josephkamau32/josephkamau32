@@ -16,7 +16,7 @@ I build:
 - ⚡ Enterprise-Grade APIs & Backend Systems  
 - 🎨 High-Performance Frontends  
 - 📈 ML Prediction Models  
-- 🌍 AI products serving **12,000+ global users**
+- 🌍 AI products
 
 ---
 
