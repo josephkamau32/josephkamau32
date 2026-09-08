@@ -1,118 +1,71 @@
+
+
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=900&lines=Joseph+Kamau+—+AI+Engineer+%26+Full-Stack+Developer;Building+AI-Powered+Applications;LLMs+%7C+RAG+%7C+FastAPI+%7C+React;Crafting+Intelligent+Systems+Used+Globally" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=900&lines=Joseph+Kamau;AI+Engineer+%7C+LLMs+%C2%B7+RAG+%C2%B7+Multi-Agent+Systems;Python+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Kubernetes" />
 </p>
 
 ---
 
-# 👋 Hi, I’m **Joseph**
-I’m an **AI Engineer & Full-Stack Developer** creating intelligent, scalable, production-ready systems using:
+## About
 
-**▫ Python ▫ FastAPI ▫ React ▫ TypeScript ▫ LangChain ▫ LLMs ▫ Vector Databases ▫ Cloud ▫ ML**
+AI Engineer building production-oriented AI platforms — retrieval-augmented generation, multi-agent orchestration, and MLOps infrastructure — with a full-stack Python/TypeScript foundation.
 
-I build:
-- 🤖 AI Agents & Autonomous Systems  
-- 🧠 RAG Knowledge Systems  
-- ⚡ Enterprise-Grade APIs & Backend Systems  
-- 🎨 High-Performance Frontends  
-- 📈 ML Prediction Models  
-- 🌍 AI products
+**Core stack:** Python · FastAPI · React · TypeScript · LangChain · PostgreSQL (pgvector) · Docker · Kubernetes
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## 🔥 **Telivus AI — Multi-Agent Health Assessment**
-**Live:** https://telivus.co.ke  
-AI-driven health platform using multi-agent LLMs, RAG, and predictive forecasting.  
-**Stack:** FastAPI · LangChain · ChromaDB · React · TypeScript · Docker  
-<p><img src="https://img.shields.io/badge/RAG-Enabled-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/AI%20AGENTS-Active-blue?style=for-the-badge" /></p>
+### [DevIntel AI](https://github.com/josephkamau32/devintel)
+AI code-intelligence platform: indexes GitHub repositories into a vector database, performs RAG-powered conversational code search, automated PR review, six-dimension code health scoring, and self-correcting auto-fix PRs. Monorepo with a FastAPI backend, React/TypeScript frontend, and a companion VS Code extension.
+**Stack:** FastAPI · React · TypeScript · PostgreSQL/pgvector · OpenAI · Docker
+**Live:** https://devintel.vercel.app
 
----
+### [ERP-lite MCP Server](https://github.com/josephkamau32/erp-lite-mcp)
+A Model Context Protocol server exposing ERP tools (inventory, sales orders, purchase requisitions) to AI agents, with a genuinely enforced human-in-the-loop approval workflow — agents can propose actions but never approve their own requests, and every call is written to a redacted, append-only audit log.
+**Stack:** FastMCP · PostgreSQL · SQLAlchemy · Docker
 
-## 🎧 **LinguaLearn — Real-Time AI Language Tutor**  
-**Live:** https://lingua-learn-chi.vercel.app  
-Supports 100+ languages, pronunciation scoring & OCR translation.
+### [Telivus AI](https://github.com/josephkamau32/Telivus-AI)
+Multi-agent health-assessment platform combining LangChain agents, RAG over a medical knowledge base, and a separate LSTM/Transformer forecasting pipeline for trajectory prediction.
+**Stack:** FastAPI · LangChain · ChromaDB · PyTorch · React · TypeScript
+**Live:** https://telivus.co.ke
 
----
+### [AI Code Review Assistant](https://github.com/josephkamau32/Code-Review-Assistant)
+RAG-powered pull-request reviewer: ingests historical review comments into a vector store and generates contextual review suggestions via GitHub webhooks.
+**Stack:** FastAPI · LangChain · ChromaDB · Docker
 
-## 🧩 **AI Code Review Assistant — Automated PR Reviewer**  
-**Repo:** https://github.com/josephkamau32/Code-Review-Assistant  
-Uses RAG + LLMs + GitHub webhooks to perform automated code reviews.
+### [Decisera — AI Decision Intelligence Platform](https://github.com/josephkamau32/AI-Decision-Intelligence-System)
+AutoML platform with automatic algorithm selection across 12+ models, SHAP-based explainability, and a natural-language data copilot, deployed with Kubernetes manifests, Prometheus/Grafana monitoring, and MLflow experiment tracking.
+**Stack:** FastAPI · scikit-learn/XGBoost/LightGBM · SHAP · Kubernetes · MLflow
 
----
-
-# 🛠️ Skills & Technologies
-
-## 🧠 **Artificial Intelligence & Machine Learning**
-<p>
-  <img src="https://img.shields.io/badge/LLMs-GPT4o%2FGemini-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-%2300A3FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Pipelines-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multi--Agent%20AI-Autonomous-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector%20DBs-ChromaDB%20%7C%20Pinecone-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ML-PyTorch%20%7C%20TensorFlow-red?style=for-the-badge" />
-</p>
+### [AquaPredict](https://github.com/josephkamau32/AI-Powered-AquaPredict)
+Predictive-maintenance model forecasting water pump failures from sensor data, framed around UN SDG 6 (clean water access).
+**Stack:** Python · scikit-learn/PyTorch
 
 ---
 
-## ⚙️ **Backend Development**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-AA0000?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0466D7?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-Real--Time-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-Auth-yellow?style=for-the-badge" />
-</p>
+## Skills
+
+**AI / ML** — LLMs (GPT-4o, Gemini) · LangChain · RAG pipelines · Multi-agent systems · Vector databases (pgvector, ChromaDB) · PyTorch/TensorFlow · SHAP/explainability
+
+**Backend** — Python · FastAPI · PostgreSQL · Redis · SQLAlchemy · JWT auth · WebSockets
+
+**Frontend** — React · TypeScript · Next.js · Tailwind CSS
+
+**Infrastructure** — Docker · Kubernetes · GitHub Actions CI/CD · Prometheus/Grafana · MLflow
 
 ---
 
-## 🎨 **Frontend Development**
-<p>
-  <img src="https://img.shields.io/badge/React-00C0FF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn-UI-black?style=for-the-badge" />
-</p>
-
----
-
-## ☁️ **Cloud & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI--CD-Automated-blue?style=for-the-badge" />
-</p>
-
----
-
-# 📊 GitHub Analytics
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josephkamau32&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephkamau32&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josephkamau32&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=josephkamau32&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephkamau32&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-# 🌍 Let’s Connect  
-<p>
-  <a href="mailto:iamjosephkamau@gmail.com"><img src="https://img.shields.io/badge/Email-iamjosephkamau%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://josephkamau.telivus.co.ke"><img src="https://img.shields.io/badge/Portfolio-josephkamau.telivus.co.ke-00C0FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-</p>
+## Contact
 
----
-
-# 🎯 Mission  
-> **To build intelligent, scalable, and globally impactful AI systems that solve real human problems.**
-
----
+[Email](mailto:iamjosephkamau@gmail.com)
