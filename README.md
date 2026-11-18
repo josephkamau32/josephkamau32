@@ -29,7 +29,7 @@ A Model Context Protocol server exposing ERP tools (inventory, sales orders, pur
 ### [Telivus AI](https://github.com/josephkamau32/Telivus-AI)
 Multi-agent health-assessment platform combining LangChain agents, RAG over a medical knowledge base, and a separate LSTM/Transformer forecasting pipeline for trajectory prediction.
 **Stack:** FastAPI · LangChain · ChromaDB · PyTorch · React · TypeScript
-**Live:** https://telivus.co.ke
+**Live:** https://telivus-gvf1x4vfg-joseph-kamaus-projects-ff2f6da1.vercel.app/
 
 ### [AI Code Review Assistant](https://github.com/josephkamau32/Code-Review-Assistant)
 RAG-powered pull-request reviewer: ingests historical review comments into a vector store and generates contextual review suggestions via GitHub webhooks.
